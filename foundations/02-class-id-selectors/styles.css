@@ -1,0 +1,26 @@
+.one,
+.three,
+.five {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+/* solution suggests to put class under "odd" since it applies to all odd numbers (cuz it's not unique)
+
+*/
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+/* solution suggests to put adjust-font-size class to adjust ONLY three's font size
+
+*/
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
